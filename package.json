@@ -1,0 +1,26 @@
+{
+  "name": "simpev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlengse/simpev.git"
+  },
+  "author": "mlengse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlengse/simpev/issues"
+  },
+  "homepage": "https://github.com/mlengse/simpev#readme",
+  "dependencies": {
+    "@rodrigogs/mysql-events": "^0.5.3",
+    "dotenv": "^6.2.0",
+    "mysql": "^2.16.0",
+    "nightmare-plus": "^2.5.1",
+    "nightmare-real-mouse": "^1.1.0"
+  }
+}
